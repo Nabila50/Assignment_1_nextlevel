@@ -1,5 +1,7 @@
  
 
+// ! -------------------------------- Problem 1 --------------------------------------------
+
 const formatValue = (
   value: string | number | boolean): string | number | boolean => {
 
